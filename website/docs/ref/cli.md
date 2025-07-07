@@ -197,7 +197,7 @@ Format of message catalogs (see the [`format`](/ref/conf#format) option for more
 
 #### `--verbose` {#compile-verbose}
 
-Print additional information.
+Print any additional information.
 
 #### `--namespace` {#compile-namespace}
 
